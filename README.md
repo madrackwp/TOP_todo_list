@@ -33,3 +33,15 @@ Each todo must have:
 #28AFB0
 #DDCECD
 #EEE5E5
+
+### localStorage storage
+
+localStorage
+|- todo_data
+||- todos (array)
+|||- id
+|||- title
+|||- description
+|||- dueDate
+|||- priority
+|||- completed
