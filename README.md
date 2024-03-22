@@ -45,3 +45,7 @@ localStorage
 |||- dueDate
 |||- priority
 |||- completed
+|||- project
+||- projects (todos)
+|||- projectID
+|||- projectName
